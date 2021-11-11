@@ -1,6 +1,7 @@
 ### Hi there / Hola a todos 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annalbirena)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annalbirena&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
