@@ -1,4 +1,4 @@
-### Hi there / Hola a todos 👋
+<h1>Hi! I'm Anna <img src="https://media.giphy.com/media/JhZcAuGjuDmZq/giphy.gif" width="40" height="35"></h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annalbirena&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
