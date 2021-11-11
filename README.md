@@ -8,7 +8,7 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="15" height="15"> [Github/anna_albirena](https://github.com/annalbirena) (Personal projects)
 - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15"> [Linkedin/anna_albirena](https://www.linkedin.com/in/ana-albirena/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annalbirena&layout=compact)](https://github.com/annalbirena/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annalbirena&layout=compact&theme=calm)](https://github.com/annalbirena/github-readme-stats)
 
 
 <!--
