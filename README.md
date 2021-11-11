@@ -1,5 +1,8 @@
 ### Hi there / Hola a todos 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annalbirena)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **annalbirena/annalbirena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
