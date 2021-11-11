@@ -6,7 +6,7 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="15" height="15"> [Twitter/anna_with2n](https://twitter.com/anna_with2n)
 - <img src="https://cdn-icons-png.flaticon.com/512/2111/2111296.png" width="15" height="15"> [Codepen/anna_albirena](https://codepen.io/anna_albirena) (You cand find my CSSArt/Animation creations)
 - <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="15" height="15"> [Github/anna_albirena](https://github.com/annalbirena) (Personal projects)
-
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15"> [Linkedin/anna_albirena](https://www.linkedin.com/in/ana-albirena/)
 
 <!--
 **annalbirena/annalbirena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
