@@ -3,7 +3,7 @@
 🔭 I am currently learning and developing projects to become a Web developer & designer
 
 ### 📫 You can reach me on:
-- ✨ [Twitter: @anna_with2n](https://twitter.com/anna_with2n)
+- ✨ Twitter [@anna_with2n](https://twitter.com/anna_with2n)
 - ✨ https://codepen.io/codeanddream (Codepen - where I post my CSSArt/Animation/snippets creations)
 - ✨ https://www.instagram.com/codeanddream/ (Instagram - where I post demo of my personal practice mini projects)
 - ✨ https://github.com/minadndai (GitHub - where I post codes of my personal projects/challenges and tutorial projects)
