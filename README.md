@@ -12,8 +12,15 @@
 <span>
 <img align="left" alt="boostrap icon" width="22px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7811f7" />
 </span>
-
-
+<span>
+<img align="left" alt="css icon" width="22px" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
+</span>
+<span>
+<img align="left" alt="git icon" width="22px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
+</span>
+<span>
+<img align="left" alt="html icon" width="22px" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
+</span>
 <br />
 
 ### 📫 You can reach me on:
