@@ -43,7 +43,7 @@
 <img align="left" alt="atom icon" width="22px" src="https://icongr.am/devicon/atom-original.svg?size=128&color=currentColor" />
 </span>
 <span>
-<img align="left" alt="figma icon" width="22px" src="https://icongr.am/simple/figma.svg?size=128&color=currentColor&colored=false" />
+<img align="left" alt="figma icon" width="22px" src="https://icongr.am/simple/figma.svg?size=128&color=ffffff&colored=false" />
 </span>
 <br />
 
