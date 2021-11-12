@@ -49,9 +49,9 @@
 
 ### 📫 You can reach me on:
 
-- <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="15" height="15"> [Twitter/anna_with2n](https://twitter.com/anna_with2n)
+- <img src="https://icongr.am/simple/twitter.svg?size=128&color=FFFFFF" width="15" height="15"> [Twitter/anna_with2n](https://twitter.com/anna_with2n)
 - <img src="https://icongr.am/simple/codepen.svg?size=128&color=FFFFFF" width="15" height="15"> [Codepen/anna_albirena](https://codepen.io/anna_albirena) (You cand find my CSSArt/Animation creations)
-- <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="15" height="15"> [Github/anna_albirena](https://github.com/annalbirena) (Personal projects)
+- <img src="https://icongr.am/simple/github.svg?size=128&color=FFFFFF" width="15" height="15"> [Github/anna_albirena](https://github.com/annalbirena) (Personal projects)
 - <img src="https://icongr.am/simple/linkedin.svg?size=128&color=FFFFFF" width="15" height="15"> [Linkedin/anna_albirena](https://www.linkedin.com/in/ana-albirena/)
 
 
