@@ -10,7 +10,7 @@
   <img align="left" alt="javascript icon" width="22px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=FFFFFF" />
 </span>
 <span>
-<img align="left" alt="boostrap icon" width="22px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=FFFFFF" />
+<img align="left" alt="boostrap icon" width="22px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7811f7" />
 </span>
 
 
