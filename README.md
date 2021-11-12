@@ -3,7 +3,7 @@
 - 🔭 I am currently learning and developing projects to become a Web developer & designer.
 - 💬 I love learning new languages! I'm profficient in English - C1 and currently self-learning Korean.
 
-### 🌱 Here are a few technologies I’ve been working with recently:
+### 🌱 Here are a few technologies I’ve been working and learning with:
 
 JavaScript (ES6+)
 React
