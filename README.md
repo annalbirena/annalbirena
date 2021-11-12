@@ -34,7 +34,7 @@
 <img align="left" alt="react icon" width="22px" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
 </span>
 <span>
-<img align="left" alt="trello icon" width="22px" src="https://icongr.am/devicon/trello-plain.svg?size=128&color=currentColor" />
+<img align="left" alt="trello icon" width="22px" src="https://icongr.am/simple/trello.svg?size=128&color=0075b0&colored=false" />
 </span>
 <span>
 <img align="left" alt="vue icon" width="22px" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
