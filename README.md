@@ -5,9 +5,12 @@
 
 ### 🌱 Here are a few technologies I’ve been working and learning with:
 
-JavaScript (ES6+)
-React
-Node.js
+<br/>
+
+<img align="left" alt="javascript icon" width="22px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=70c8ff" />
+<img align="left" alt="Gonzalo Pozzo LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+
+<br />
 
 ### 📫 You can reach me on:
 
