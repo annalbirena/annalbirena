@@ -6,6 +6,12 @@
 ### 🌱 Here are a few technologies I’ve been working and learning with:
 
 <br/>
+<span>
+  <img align="left" alt="javascript icon" width="22px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
+</span>
+<span>
+  <img align="left" alt="javascript icon" width="22px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
+</span>
 <img align="left" alt="javascript icon" width="22px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
 <img align="left" alt="boostrap icon" width="22px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=currentColor" />
 <br />
