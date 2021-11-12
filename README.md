@@ -7,19 +7,25 @@
 
 <br/>
 <span>
-  <img align="left" alt="javascript icon" width="22px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=FFFFFF" />
-</span>
-<span>
-<img align="left" alt="boostrap icon" width="22px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7811f7" />
+<img align="left" alt="html icon" width="22px" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
 </span>
 <span>
 <img align="left" alt="css icon" width="22px" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
 </span>
 <span>
-<img align="left" alt="git icon" width="22px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
+  <img align="left" alt="javascript icon" width="22px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=FFFFFF" />
 </span>
 <span>
-<img align="left" alt="html icon" width="22px" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
+<img align="left" alt="react icon" width="22px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />
+</span>
+<span>
+<img align="left" alt="vue icon" width="22px" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
+</span>
+<span>
+<img align="left" alt="boostrap icon" width="22px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7811f7" />
+</span>
+<span>
+<img align="left" alt="sass icon" width="22px" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
 </span>
 <span>
 <img align="left" alt="nodejs icon" width="22px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
@@ -28,19 +34,16 @@
 <img align="left" alt="npm icon" width="22px" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" />
 </span>
 <span>
-<img align="left" alt="react icon" width="22px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />
+<img align="left" alt="git icon" width="22px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
 </span>
 <span>
-<img align="left" alt="react icon" width="22px" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
-</span>
-<span>
-<img align="left" alt="trello icon" width="22px" src="https://icongr.am/simple/trello.svg?size=128&color=0075b0&colored=false" />
-</span>
-<span>
-<img align="left" alt="vue icon" width="22px" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
+<img align="left" alt="vsc icon" width="22px" src="https://icongr.am/simple/visualstudio.svg?size=128&color=4babeb&colored=false" />
 </span>
 <span>
 <img align="left" alt="atom icon" width="22px" src="https://icongr.am/devicon/atom-original.svg?size=128&color=currentColor" />
+</span>
+<span>
+<img align="left" alt="trello icon" width="22px" src="https://icongr.am/simple/trello.svg?size=128&color=0075b0&colored=false" />
 </span>
 <span>
 <img align="left" alt="figma icon" width="22px" src="https://icongr.am/simple/figma.svg?size=128&color=ffffff&colored=false" />
