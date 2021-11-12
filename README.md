@@ -42,6 +42,9 @@
 <span>
 <img align="left" alt="atom icon" width="22px" src="https://icongr.am/devicon/atom-original.svg?size=128&color=currentColor" />
 </span>
+<span>
+<img align="left" alt="figma icon" width="22px" src="https://icongr.am/simple/figma.svg?size=128&color=currentColor&colored=false" />
+</span>
 <br />
 
 ### 📫 You can reach me on:
@@ -49,7 +52,7 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="15" height="15"> [Twitter/anna_with2n](https://twitter.com/anna_with2n)
 - <img src="https://icongr.am/simple/codepen.svg?size=128&color=FFFFFF" width="15" height="15"> [Codepen/anna_albirena](https://codepen.io/anna_albirena) (You cand find my CSSArt/Animation creations)
 - <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="15" height="15"> [Github/anna_albirena](https://github.com/annalbirena) (Personal projects)
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15"> [Linkedin/anna_albirena](https://www.linkedin.com/in/ana-albirena/)
+- <img src="https://icongr.am/simple/linkedin.svg?size=128&color=FFFFFF" width="15" height="15"> [Linkedin/anna_albirena](https://www.linkedin.com/in/ana-albirena/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annalbirena&layout=compact&theme=calm)](https://github.com/annalbirena/github-readme-stats)
