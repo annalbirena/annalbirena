@@ -21,6 +21,27 @@
 <span>
 <img align="left" alt="html icon" width="22px" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
 </span>
+<span>
+<img align="left" alt="nodejs icon" width="22px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
+</span>
+<span>
+<img align="left" alt="npm icon" width="22px" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" />
+</span>
+<span>
+<img align="left" alt="react icon" width="22px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />
+</span>
+<span>
+<img align="left" alt="react icon" width="22px" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
+</span>
+<span>
+<img align="left" alt="trello icon" width="22px" src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=128&color=currentColor" />
+</span>
+<span>
+<img align="left" alt="vue icon" width="22px" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
+</span>
+<span>
+<img align="left" alt="atom icon" width="22px" src="https://icongr.am/devicon/atom-original.svg?size=128&color=currentColor" />
+</span>
 <br />
 
 ### 📫 You can reach me on:
