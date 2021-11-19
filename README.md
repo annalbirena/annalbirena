@@ -1,5 +1,4 @@
-<h1>Hi! I'm Anna <img src="https://media.giphy.com/media/JhZcAuGjuDmZq/giphy.gif" width="60" height="35"></h1> ![Visitor Count](https://profile-counter.glitch.me/%7Bannalbirena%7D/count.svg)
-
+<h1>Hi! I'm Anna <img src="https://media.giphy.com/media/JhZcAuGjuDmZq/giphy.gif" width="60" height="35"></h1> 
 
 - 🔭 I am currently learning and developing projects to become a Web developer & designer.
 - 💬 I love learning new languages! My native language is Spanish but I'm profficient in English - C1 and I currently self-learning Korean.
@@ -61,7 +60,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annalbirena&layout=compact&theme=calm)](https://github.com/annalbirena/github-readme-stats)
 
-
+![Visitor Count](https://profile-counter.glitch.me/%7Bannalbirena%7D/count.svg)
 <!--
 **annalbirena/annalbirena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
