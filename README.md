@@ -1,6 +1,6 @@
 <h1>Hi! I'm Anna <img src="https://media.giphy.com/media/JhZcAuGjuDmZq/giphy.gif" width="60" height="35"></h1> 
 
-- 🔭 I am currently learning and developing projects to become a Web developer & designer.
+- 🔭 I am currently learning and developing projects to become a Web developer.
 - 💬 I love learning new languages! My native language is Spanish but I'm profficient in English - C1 and I currently self-learning Korean.
 
 ### 🌱 Here are a few technologies I’ve been working and learning with:
