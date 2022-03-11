@@ -5,15 +5,13 @@
 
 ### 🌱 Projects
   
-        ✨ Tweet Social Network
-            - [Live](https://db-tweet-app.web.app/)
-            - [Github](https://github.com/annalbirena/tweet-app)
+   ✨ Tweet Social Network - [Live](https://db-tweet-app.web.app/)- [Github](https://github.com/annalbirena/tweet-app)
 
-        ✨ Finder Gifs
+   ✨ Finder Gifs
             - [Live](https://annalbirena.github.io/FinderGIFs/)
             - [Github](https://github.com/annalbirena/FinderGIFs)
 
-        ✨ Booking
+   ✨ Booking
             - [Live](https://annalbirena.github.io/Booking/)
             - [Github](https://github.com/annalbirena/Booking)
 
