@@ -3,6 +3,21 @@
 - 🔭 I am currently learning and developing projects to become a Web developer.
 - 💬 I love learning new languages! My native language is Spanish but I'm profficient in English - B2 and I currently self-learning Korean.
 
+### 🌱 Projects
+  
+  ✨ Tweet Social Network
+      - [Live](https://db-tweet-app.web.app/)
+      - [Github](https://github.com/annalbirena/tweet-app)
+      
+  ✨ Finder Gifs
+      - Live: 
+      - Github:
+      
+  ✨ Booking
+      - Live: 
+      - Github:
+  
+
 ### 🌱 Here are a few technologies I’ve been working and learning with:
 
 <br/>
