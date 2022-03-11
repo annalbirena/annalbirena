@@ -5,18 +5,17 @@
 
 ### 🌱 Projects
   
-  ✨ Tweet Social Network
-      - [Live](https://db-tweet-app.web.app/)
-      - [Github](https://github.com/annalbirena/tweet-app)
-      
-  ✨ Finder Gifs
-      - Live: 
-      - Github:
-      
-  ✨ Booking
-      - Live: 
-      - Github:
-  
+        ✨ Tweet Social Network
+            - [Live](https://db-tweet-app.web.app/)
+            - [Github](https://github.com/annalbirena/tweet-app)
+
+        ✨ Finder Gifs
+            - [Live](https://annalbirena.github.io/FinderGIFs/)
+            - [Github](https://github.com/annalbirena/FinderGIFs)
+
+        ✨ Booking
+            - [Live](https://annalbirena.github.io/Booking/)
+            - [Github](https://github.com/annalbirena/Booking)
 
 ### 🌱 Here are a few technologies I’ve been working and learning with:
 
