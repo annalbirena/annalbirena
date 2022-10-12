@@ -70,10 +70,10 @@
 - <img src="https://icongr.am/simple/github.svg?size=128&color=FFFFFF" width="15" height="15"> [Github/anna_albirena](https://github.com/annalbirena) (Personal projects)
 - <img src="https://icongr.am/simple/linkedin.svg?size=128&color=FFFFFF" width="15" height="15"> [Linkedin/anna_albirena](https://www.linkedin.com/in/ana-albirena/)
 
+[![@annalbirena's Holopin board](https://holopin.io/api/user/board?user=annalbirena)](https://holopin.io/@annalbirena)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annalbirena&layout=compact&theme=calm)](https://github.com/annalbirena/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annalbirena&layout=compact&theme=calm)](https://github.com/annalbirena/github-readme-stats) -->
 
-![Visitor Count](https://profile-counter.glitch.me/%7Bannalbirena%7D/count.svg)
 <!--
 **annalbirena/annalbirena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
