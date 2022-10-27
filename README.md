@@ -4,7 +4,8 @@
 - 🎓 [Acamica](https://www.acamica.com/) x [Globant](https://www.globant.com/es/front) Bootcamp grad.
 - 💬 I love learning new languages! My native language is Spanish but I'm profficient in English - B2 and I currently self-learning Korean.
 
-### 🌱 Projects
+<!--
+### Projects
   
    ✨ Tweet Social Network - [Live](https://db-tweet-app.web.app/)- [Github](https://github.com/annalbirena/tweet-app)
 
@@ -15,10 +16,9 @@
    ✨ Booking
             - [Live](https://annalbirena.github.io/Booking/)
             - [Github](https://github.com/annalbirena/Booking)
+-->
+### Here are a few technologies I’ve been working and learning with:
 
-### 🌱 Here are a few technologies I’ve been working and learning with:
-
-<br/>
 <span>
 <img align="left" alt="html icon" width="22px" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
 </span>
@@ -63,7 +63,7 @@
 </span>
 <br />
 
-### 📫 You can reach me on:
+### You can reach me on:
 
 - <img src="https://icongr.am/simple/twitter.svg?size=128&color=FFFFFF" width="15" height="15"> [Twitter/anna_with2n](https://twitter.com/anna_with2n)
 - <img src="https://icongr.am/simple/codepen.svg?size=128&color=FFFFFF" width="15" height="15"> [Codepen/anna_albirena](https://codepen.io/anna_albirena) (You cand find my CSSArt/Animation creations)
