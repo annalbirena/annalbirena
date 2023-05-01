@@ -1,6 +1,6 @@
 <h1>Hi! I'm Anna <img src="https://media.giphy.com/media/JhZcAuGjuDmZq/giphy.gif" width="60" height="35"></h1> 
 
-- 🔭 I am currently developing projects with React.
+- 🔭 I am currently developing projects with NextJS.
 - 🎓 [Acamica](https://www.acamica.com/) x [Globant](https://www.globant.com/es/front) Bootcamp grad.
 - 💬 I love learning new languages! My native language is Spanish but I'm profficient in English - B2 and I currently self-learning Korean.
 
@@ -65,7 +65,6 @@
 
 ### You can reach me on:
 
-- <img src="https://icongr.am/simple/twitter.svg?size=128&color=FFFFFF" width="15" height="15"> [Twitter/anna_with2n](https://twitter.com/anna_with2n)
 - <img src="https://icongr.am/simple/codepen.svg?size=128&color=FFFFFF" width="15" height="15"> [Codepen/anna_albirena](https://codepen.io/anna_albirena) (You cand find my CSSArt/Animation creations)
 - <img src="https://icongr.am/simple/github.svg?size=128&color=FFFFFF" width="15" height="15"> [Github/anna_albirena](https://github.com/annalbirena) (Personal projects)
 - <img src="https://icongr.am/simple/linkedin.svg?size=128&color=FFFFFF" width="15" height="15"> [Linkedin/anna_albirena](https://www.linkedin.com/in/ana-albirena/)
