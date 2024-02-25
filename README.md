@@ -1,8 +1,7 @@
 <h1>Hi! I'm Anna <img src="https://media.giphy.com/media/JhZcAuGjuDmZq/giphy.gif" width="60" height="35"></h1> 
 
-- 🔭 I am currently developing projects with NextJS.
+- 🔭 I am currently developing projects with React and exploring Open Source Tech.
 - 🎓 [Acamica](https://www.acamica.com/) x [Globant](https://www.globant.com/es/front) Bootcamp grad.
-- 💬 I love learning new languages! My native language is Spanish but I'm profficient in English - B2 and I currently self-learning Korean.
 
 <!--
 ### Projects
