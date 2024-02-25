@@ -1,21 +1,14 @@
-<h1>Hi! I'm Anna <img src="https://media.giphy.com/media/JhZcAuGjuDmZq/giphy.gif" width="60" height="35"></h1> 
+<h1>Hi, I'm Anna 👋</h1> 
 
-- 🔭 I am currently developing projects with React and exploring Open Source Tech.
-- 🎓 [Acamica](https://www.acamica.com/) x [Globant](https://www.globant.com/es/front) Bootcamp grad.
+I am a Software Engineer with a passion for design based in Lima, Peru.
 
-<!--
-### Projects
-  
-   ✨ Tweet Social Network - [Live](https://db-tweet-app.web.app/)- [Github](https://github.com/annalbirena/tweet-app)
+✨ Frontend Developer (React + TS) and UI Designer.<br>
+⚡ Digital Product Design student with strong interest in UX/UI Design.<br>
+🤖 Co-Founder of [Plexo][5] and Open Source Contributor.<br>
+🌎 English [DevClub][6] Member for Spanish developers.<br>
+💻 Checkout my work on [behance][3] and my CssArt on [codepen][4].<br>
+📫 How to reach me: [linkedin][1] · [email][2]
 
-   ✨ Finder Gifs
-            - [Live](https://annalbirena.github.io/FinderGIFs/)
-            - [Github](https://github.com/annalbirena/FinderGIFs)
-
-   ✨ Booking
-            - [Live](https://annalbirena.github.io/Booking/)
-            - [Github](https://github.com/annalbirena/Booking)
--->
 ### Here are a few technologies I’ve been working and learning with:
 
 <span>
@@ -60,19 +53,19 @@
 <span>
 <img align="left" alt="figma icon" width="22px" src="https://icongr.am/simple/figma.svg?size=128&color=ffffff&colored=false" />
 </span>
-<br />
+<br><br>
 
-### You can reach me on:
-
-- <img src="https://icongr.am/simple/codepen.svg?size=128&color=FFFFFF" width="15" height="15"> [Codepen/anna_albirena](https://codepen.io/anna_albirena) (You cand find my CSSArt/Animation creations)
-- <img src="https://icongr.am/simple/github.svg?size=128&color=FFFFFF" width="15" height="15"> [Github/anna_albirena](https://github.com/annalbirena) (Personal projects)
-- <img src="https://icongr.am/simple/linkedin.svg?size=128&color=FFFFFF" width="15" height="15"> [Linkedin/anna_albirena](https://www.linkedin.com/in/ana-albirena/)
-
-<!-- [![@annalbirena's Holopin board](https://holopin.io/api/user/board?user=annalbirena)](https://holopin.io/@annalbirena) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annalbirena&layout=compact&theme=calm)](https://github.com/annalbirena/github-readme-stats) -->
 
 [![@annalbirena's Holopin board](https://holopin.io/api/user/board?user=annalbirena)](https://holopin.io/@annalbirena)
+
+<!-- links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/ana-albirena
+[2]: mailto:anna.albirena@gmail.com
+[3]: https://www.behance.net/annaalbiren
+[4]: https://codepen.io/anna_albirena
+[5]: https://plexo.app
+[6]: https://www.instagram.com/englishdevclub
 <!--
 **annalbirena/annalbirena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
