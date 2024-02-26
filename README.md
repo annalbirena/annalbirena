@@ -2,12 +2,12 @@
 
 I am a Software Engineer with a passion for design based in Lima, Peru.
 
-✨ Frontend Developer (React + TS) and UI Designer.<br>
-⚡ Digital Product Design student with strong interest in UX/UI Design.<br>
-🤖 Co-Founder of [Plexo][5] and Open Source Contributor.<br>
-🌎 English [DevClub][6] Member for Spanish developers.<br>
-💻 Checkout my work on [behance][3] and my CssArt on [codepen][4].<br>
-📫 How to reach me: [linkedin][1] · [email][2]
+- ✨ Frontend Developer (React + TS) and UI Designer.<br>
+- ⚡ Digital Product Design student with strong interest in UX/UI Design.<br>
+- 🤖 Co-Founder of [Plexo][5] and Open Source Contributor.<br>
+- 🌎 English [DevClub][6] Member for Spanish developers.<br>
+- 💻 Checkout my work on [behance][3] and my CssArt on [codepen][4].<br>
+- 📫 How to reach me: [linkedin][1] · [email][2]
 
 ### Here are a few technologies I’ve been working and learning with:
 
