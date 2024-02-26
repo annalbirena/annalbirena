@@ -8,7 +8,7 @@
   </samp>
 </p>
 
-**About me:**
+### About me:
 
 - ✨ Frontend Developer (React + TS) and UI Designer.<br>
 - ⚡ Digital Product Design student with strong interest in UX/UI Design.<br>
