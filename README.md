@@ -1,6 +1,14 @@
-<h1>Hi, I'm Anna 👋</h1> 
+<!-- Intro  -->
+<h3 align="center">
+        <samp>Hi! I am Anna 👋</samp>
+</h3>
+<p align="center"> 
+  <samp>
+    「 I am a Software Engineer with passion for design based in Lima, Peru. 」
+  </samp>
+</p>
 
-I am a Software Engineer with a passion for design based in Lima, Peru.
+**About me:**
 
 - ✨ Frontend Developer (React + TS) and UI Designer.<br>
 - ⚡ Digital Product Design student with strong interest in UX/UI Design.<br>
@@ -9,55 +17,31 @@ I am a Software Engineer with a passion for design based in Lima, Peru.
 - 💻 Checkout my work on [behance][3] and my CssArt on [codepen][4].<br>
 - 📫 How to reach me: [linkedin][1] · [email][2]
 
-### Here are a few technologies I’ve been working and learning with:
+### Technologies & Tools
+![](https://img.shields.io/badge/Html-informational?style=flat&logo=html5&logoColor=white&color=565656)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=565656)
+![](https://img.shields.io/badge/Sass-informational?style=flat&logo=sass&logoColor=white&color=565656)
+![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=565656)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=565656)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=565656)
+![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=565656)
+![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=white&color=565656)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=565656)
+![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=565656)
+![](https://img.shields.io/badge/SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=565656)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=565656)
+![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=white&color=565656)
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=565656)
+![](https://img.shields.io/badge/Trello-informational?style=flat&logo=trello&logoColor=white&color=565656)
+![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=565656)
 
-<span>
-<img align="left" alt="html icon" width="22px" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />
-</span>
-<span>
-<img align="left" alt="css icon" width="22px" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />
-</span>
-<span>
-  <img align="left" alt="javascript icon" width="22px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=FFFFFF" />
-</span>
-<span>
-<img align="left" alt="react icon" width="22px" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" />
-</span>
-<span>
-<img align="left" alt="vue icon" width="22px" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
-</span>
-<span>
-<img align="left" alt="boostrap icon" width="22px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7811f7" />
-</span>
-<span>
-<img align="left" alt="sass icon" width="22px" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
-</span>
-<span>
-<img align="left" alt="nodejs icon" width="22px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />
-</span>
-<span>
-<img align="left" alt="npm icon" width="22px" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" />
-</span>
-<span>
-<img align="left" alt="git icon" width="22px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
-</span>
-<span>
-<img align="left" alt="vsc icon" width="22px" src="https://icongr.am/simple/visualstudio.svg?size=128&color=4babeb&colored=false" />
-</span>
-<span>
-<img align="left" alt="atom icon" width="22px" src="https://icongr.am/devicon/atom-original.svg?size=128&color=currentColor" />
-</span>
-<span>
-<img align="left" alt="trello icon" width="22px" src="https://icongr.am/simple/trello.svg?size=128&color=0075b0&colored=false" />
-</span>
-<span>
-<img align="left" alt="figma icon" width="22px" src="https://icongr.am/simple/figma.svg?size=128&color=ffffff&colored=false" />
-</span>
 <br><br>
 
-
-[![@annalbirena's Holopin board](https://holopin.io/api/user/board?user=annalbirena)](https://holopin.io/@annalbirena)
-
+<a> 
+    <a href="https://github.com/annalbirena"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=annalbirena&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/annalbirena"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=annalbirena&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 <!-- links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/ana-albirena
@@ -66,17 +50,5 @@ I am a Software Engineer with a passion for design based in Lima, Peru.
 [4]: https://codepen.io/anna_albirena
 [5]: https://plexo.app
 [6]: https://www.instagram.com/englishdevclub
-<!--
-**annalbirena/annalbirena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- [![@annalbirena's Holopin board](https://holopin.io/api/user/board?user=annalbirena)](https://holopin.io/@annalbirena) -->
