@@ -4,14 +4,13 @@
 </h3>
 <p align="center"> 
   <samp>
-    「 I am a Software Engineer with passion for design based in Lima, Peru. 」
+    「 I am a Frontend Engineer with passion for design based in Lima, Peru. 」
   </samp>
 </p>
 
 ### About me:
 
-- ✨ Frontend Developer (React + TS) and UI Designer.<br>
-- ⚡ Digital Product Design student with strong interest in UX/UI Design.<br>
+- ✨ Frontend Engineer (React + TS) and UX/UI Designer.<br>
 - 🤖 Co-Founder of [Plexo][5] and Open Source Contributor.<br>
 - 💻 Checkout my work on [behance][3] and my CssArt on [codepen][4].<br>
 - 📫 How to reach me: [linkedin][1] · [email][2]
